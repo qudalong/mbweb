@@ -1,0 +1,7 @@
+{
+    "launch": {
+        "files.associations":{
+            "*.vue": "html"
+        }
+    }
+}
